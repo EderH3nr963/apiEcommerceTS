@@ -31,11 +31,11 @@ api-ecommerce-ts/
 │   ├── usuarioModel.ts
 │   ├── enderecoModel.ts
 │   ├── categoriaModel.ts
-│   └── produtoModel.ts
+│   ├── produtoModel.ts
+|   └── orderModel.ts
 ├── routes/          # Rotas da API
 │   ├── authRoutes.ts
 │   ├── userRoutes.ts
-│   ├── categoriaRoutes.ts
 │   └── produtoRoutes.ts
 ├── services/        # Lógica de negócios
 │   ├── authService.ts
@@ -45,7 +45,8 @@ api-ecommerce-ts/
 │   ├── sendMail.ts
 │   └── gerarCodigo.ts
 └── sql/            # Scripts SQL
-    └── categorias.sql
+    ├── categorias.sql
+    └── script.sql
 ```
 
 ## Rotas da API
