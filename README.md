@@ -288,17 +288,6 @@ Todas as rotas retornam respostas no seguinte formato:
 - ✅ Código limpo e organizado
 - ✅ Respostas padronizadas
 
-## Próximos Passos
-
-- [ ] Implementar upload de imagens
-- [ ] Adicionar testes automatizados
-- [ ] Implementar sistema de pedidos
-- [ ] Adicionar paginação nas listagens
-- [ ] Implementar sistema de avaliações
-- [ ] Adicionar documentação Swagger
-- [ ] Implementar sistema de notificações
-- [ ] Adicionar logs estruturados
-
 ## Como Usar
 
 1. Clone o repositório
